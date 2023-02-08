@@ -20,3 +20,6 @@ public class Quentionfive {
         jaggedArray.add();
     }
 }
+//output:-
+//{{11 ,13 ,15 ,},{17 ,19 ,21 ,23 ,},{25 ,27 ,},}
+//Process finished with exit code 0
