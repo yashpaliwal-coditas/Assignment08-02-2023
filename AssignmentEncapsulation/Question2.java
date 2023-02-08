@@ -34,3 +34,6 @@ public class Question2 {
         System.out.println(rectangle.getAreas());
     }
 }
+
+// output
+// 92
