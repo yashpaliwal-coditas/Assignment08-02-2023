@@ -22,3 +22,8 @@ public class Quentionfour {
         removeDuplicate.implement();
     }
 }
+// output
+//Array with duplicates [23, 445, 65, 43, 32, 21, 98, 75, 21, 65]
+//Duplicates are deleted [23, 445, 65, 43, 32, 21, 98, 75]
+//
+//Process finished with exit code 0
