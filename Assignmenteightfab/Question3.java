@@ -14,3 +14,7 @@ public class Question3 {
 
     }
 }
+// output
+//Array copy in another array [23, 445, 65, 43, 32, 21, 98, 75]
+//
+//Process finished with exit code 0
