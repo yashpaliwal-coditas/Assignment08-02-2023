@@ -17,3 +17,8 @@ public class Questiontwo {
 
     }
 }
+//output:-
+//Ascending order [21, 23, 32, 43, 65, 75, 98, 445]
+//Descending order [445, 98, 75, 65, 43, 32, 23, 21]
+//
+//Process finished with exit code 0
