@@ -68,3 +68,9 @@ public class QuestionOne {
         System.out.println(bankSystem);
     }
 }
+// output:-
+//        BankSystem{accountnumber=453278, name='Yash', address='Agra', amount=450.8}
+//        Account balance is 450.8
+//        Debited Account balance is 383.04
+//        Credited Account balance is 531.8
+//        BankSystem{accountnumber=453278, name='Yash', address='Agra', amount=531.8}
