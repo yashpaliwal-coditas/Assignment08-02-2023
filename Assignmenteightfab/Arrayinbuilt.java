@@ -29,3 +29,14 @@ public class Arrayinbuilt {
         ar.implement();
     }
 }
+
+// output
+//        [23, 445, 65, 43, 32, 21, 98, 75, 0, 0]
+//        [23, 445, 65, 43, 32, 21, 98, 75, 0, 0, 0, 0, 0, 0]
+//        [65, 43, 32]
+//        false
+//        false
+//        [0, 0, 0, 0, 0, 0, 21, 23, 32, 43, 65, 75, 98, 445]
+//        43 found at index = 9
+//        23,445,65,43,32,21,98,75,
+//        Process finished with exit code 0
