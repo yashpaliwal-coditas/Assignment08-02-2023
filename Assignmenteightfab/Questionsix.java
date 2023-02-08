@@ -15,3 +15,8 @@ public class Questionsix {
         findElement.find(sc.nextInt());
     }
 }
+// output:-
+//Enter the index
+//4
+//Element at the index is 32
+//Process finished with exit code 0
